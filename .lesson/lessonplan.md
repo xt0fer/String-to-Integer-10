@@ -1,27 +1,15 @@
 # Lesson plan
   
-  ** this file should contain teacher lesson plan details ** 
+ # String to Integer
 
-  __ students will never see this __
+Convert a string of a number to a number.
+The input will always be a positive number with no decimal places.
 
-  ## Learning Objectives
-  1. 
-  2. 
-  3. 
-
-  Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format your lesson plan.
-
-  For example, here is a code block in python3
-```python
-def hello_world():
-  print("hello world!")
+So valid input is:
 ```
-
-  
-  Include an image by placing it in the `assets` folder.
-
-  For example, here is the Replit logo:
-
-  ![alt text](assets/logo.png)
-  
+"1"
+"4"
+"16"
+"50634"
+```
   
